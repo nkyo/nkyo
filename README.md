@@ -24,7 +24,7 @@
 
 <div align="center">  
   <p>
-    <img src="https://discord.c99.nl/widget/theme-1/286171630370291712.png" alt="Discord">
+    <img src="https://discord.c99.nl/widget/theme-3/522995211484528660.png" alt="Discord">
   </p>
 </div>
 
