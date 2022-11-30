@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NK</h1>
 
 <div align="center">
-  <a href="https://github.com/nkyo" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/></a>
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/>
   
   <a href="https://fb.com/nknkne" target="_blank">
     <img src=https://img.shields.io/badge/facebook-%2300acee.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=twitter style="margin-bottom: 5px;" />
