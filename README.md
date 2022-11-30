@@ -50,11 +50,6 @@
   
   <br>
   
-  <img src="https://img.icons8.com/fluency/96/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/96/000000/grafana.png"/>
-  
-  <br>
-  
   <img src="https://img.icons8.com/color/96/000000/ubuntu.png"/>
   <img src="https://img.icons8.com/color/96/000000/google-cloud.png"/>
   <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png"/>
