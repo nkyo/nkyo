@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm NK</h1>
 
 <div align="center">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/>
-  
+<a href="https://fb.com/nknkne" target="_blank">
+  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/>
+  </a>
   <a href="https://fb.com/nknkne" target="_blank">
-    <img src=https://img.shields.io/badge/facebook-%2300acee.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/facebook-%2300acee.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </a>
   
   <a href="https://stackoverflow.com/" target="_blank">
-    <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow" style="margin-bottom: 5px;" />
   </a>
   
   <a href="#" target="_blank">
-    <img src=https://img.shields.io/badge/discord-%237289D0.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/discord-%237289D0.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="discord" style="margin-bottom: 5px;"/>
   </a>
   
 </div>
@@ -28,7 +29,7 @@
 <div align="center">
   
   <p>
-    &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=nkyo&show_icons=true&hide_border=true&hide_title=true&bg_color=1a1c1f&border_radius=10&theme=dark&locale=en" alt="alphazinn" />
+    &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=nkyo&show_icons=true&hide_border=true&hide_title=true&bg_color=1a1c1f&border_radius=10&theme=dark&locale=en" alt="nkyo" />
   </p>
   
 </div>
